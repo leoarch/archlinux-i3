@@ -27,28 +27,18 @@
 ```mv rofi/ ~/.config```  
 ```mv .dex.rasi ~```  
 
-## 7° Passo: Mover os arquivos do ~/.oh-my-zsh: ##
-```sudo rm -dR ~/.oh-my-zsh```  
-```mv .oh-my-zsh ~```  
-```sudo rm -dR ~/.zshrc```  
-```mv .zshrc ~/```  
-
-## 8° Passo: Mover os arquivos do ~/Imagens: ##
+## 7° Passo: Mover os arquivos do ~/Imagens: ##
 ```mkdir ~/Imagens```  
 ```sudo rm -dR ~/Imagens/W1.png```  
 ```mv W1.png ~/Imagens```  
 
-## 9° Passo: Mover os arquivos do /etc/xdg/termite: ##
+## 8° Passo: Mover os arquivos do /etc/xdg/termite: ##
 ```sudo rm -dR /etc/xdg/termite```  
 ```sudo mv termite/ /etc/xdg/```
 
-## 9° Passo: Mover os arquivos do /etc/xdg/termite: ##
-```sudo rm -dR /etc/xdg/termite```  
-```sudo mv termite/ /etc/xdg/```  
-
-## 9° Passo: Mover os arquivos do /etc/xdg/termite: ##
-```sudo rm -dR /etc/xdg/termite```  
-```sudo mv termite/ /etc/xdg/```
-
-## 10° Passo: Criar diretórios necessários: ##
+## 9° Passo: Criar diretórios necessários: ##
 ```mkdir ~/Imagens/Screenshots```  
+
+## 10° Passo: Recomendações: ##
+[Instalação do Arch Linux (i3-gaps) - Parte 1](https://github.com/jirrezdex/sistema)  
+[Instalação do Arch Linux (i3-gaps) - Parte 2](https://github.com/jirrezdex/archlinux)
